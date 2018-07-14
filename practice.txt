@@ -1,0 +1,23 @@
+request and response-it wont show any URL
+sendRedirect()-client can see all URL's
+
+only service() method 
+
+Hi ,
+
+PFB
+
+The file(s) can be downloaded with the following URL(s) and credentials:
+
+https://fts.capgemini.com/pubpwd/60987837523288/templates.zip link valid until 2018-07-20 8:00 UTC (public access with local password)
+https://fts.capgemini.com/pubpwd/60987837523288/103254_RajatBhutani_Group1_PLP_AirlineReservationSystem.zip link valid until 2018-07-20 8:00 UTC (public access with local password)
+https://fts.capgemini.com/pubpwd/60987837523288/QualityTrainingforFreshers.pdf link valid until 2018-07-20 8:00 UTC (public access with local password)
+https://fts.capgemini.com/pubpwd/60987837523288/High-Level-WBS-May-16th-JEE-Propel-Batch-SipcotChennai.xlsx link valid until 2018-07-20 8:00 UTC (public access with local password)
+Additional credentials, to enter in specific popup box when prompted for authentication. 
+
+
+username: diekourrv
+Password: 8PDt86shXJ 
+
+You will receive an email with the URL(s) that you should forward to your contact so they can download the file(s).
+Note that the folder and all the files stored in it will be removed automatically in 7 days.
